@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Cam, a Sophomore at UMass Lowell studying Computer Science.
 
-### Skills
+## Skills
 C++/C
 Python
 MIPS / x86 Assembly Language
