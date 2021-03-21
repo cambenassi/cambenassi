@@ -2,7 +2,7 @@
 
 I'm Cam, a Sophomore at UMass Lowell studying Computer Science.
 
-## Skills
+## Programming Skills
 C++/C
 
 Python
