@@ -3,8 +3,10 @@
 I'm Cam, a Sophomore at UMass Lowell studying Computer Science.
 
 ## Skills
-C++/C\n
+C++/C
+
 Python
+
 MIPS / x86 Assembly Language
 
 ## Contact
