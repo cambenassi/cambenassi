@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 I'm Cam, a Sophomore at UMass Lowell studying Computer Science.
 
 # Skills
