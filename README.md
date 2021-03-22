@@ -1,6 +1,6 @@
-## Hi there 👋
+## About Me 👋
 
-I'm Cam, a Sophomore at UMass Lowell studying Computer Science.
+Hello! I'm Cam, a Sophomore at UMass Lowell studying Computer Science. 
 
 ## Programming Skills
 C++/C
