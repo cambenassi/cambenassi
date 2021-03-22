@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Hello! I'm Cam, a Sophomore at UMass Lowell studying Computer Science. 
+Hello! I'm Cam, a Sophomore at UMass Lowell studying Computer Science. Between coursework and personal projects, my GitHub is a home for it all. 
 
 ## Programming Skills
 C++/C
