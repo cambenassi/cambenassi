@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Hello! I'm Cam, a senior at UMass Lowell studying Computer Science, with a focus in Full Stack Web Development.
+Hello! I'm Cam, a senior at UMass Lowell studying Computer Science, with a current focus in Full Stack Web Development.
 
 ## Current Side Project (in progress)
 [Spiderweb - a Bug Tracking Website](https://bitbucket.org/cambenassi/spiderweb/src/main/)
